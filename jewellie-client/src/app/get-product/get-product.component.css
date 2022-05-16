@@ -29,7 +29,7 @@
     margin-left: 16px;
     font-size: 17px;
     border: 1px black ;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 1px solid #653F37;
   }
   @media screen and (max-width: 600px){
